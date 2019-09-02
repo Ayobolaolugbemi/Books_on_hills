@@ -8,7 +8,9 @@ public class Addition {
 		int a =10;
 		int b= 20;
 		int c = a+b;
-		System.out.println(c);
+		int d = 35;
+		int e = c+d;
+		System.out.println(e);
 
 	}
 
